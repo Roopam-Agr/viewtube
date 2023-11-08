@@ -1,7 +1,7 @@
 ViewTube - Your YouTube Experience
 
 Introduction:
-ViewTube is a web application that provides a familiar YouTube-like experience right from your GitHub repository. Whether you're building your project or just exploring the world of YouTube, ViewTube offers an amazing interface and functionality that's powered by the YouTube API from RapidAPI.
+ViewTube is a web application that provides a familiar YouTube-like experience right from your GitHub repository. Whether you're building your project or just exploring the world of YouTube, ViewTube offers an amazing interface and functionality that's powered by the YouTube API from RapidAPI.🤩
 
 Features:
 Stunning UI: ViewTube offers a sleek and user-friendly interface. It's designed to provide a familiar YouTube-like experience with an emphasis on aesthetics.
